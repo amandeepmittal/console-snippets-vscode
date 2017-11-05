@@ -5,12 +5,12 @@
     "description": "console.log()"
   },
   "error": {
-    "prefix": "cerror",
+    "prefix": "cerr",
     "body": "console.error($1);$2",
     "description": "console.error()"
   },
   "info": {
-    "prefix": "cinfo",
+    "prefix": "ci",
     "body": "console.info($1);$2",
     "description": "console.info()"
   },
@@ -25,12 +25,12 @@
     "description": "console.warn()"
   },
   "group": {
-    "prefix": "cgroup",
+    "prefix": "cg",
     "body": "console.group($1);$2",
     "description": "console.group()"
   },
   "group-end": {
-    "prefix": "cgend",
+    "prefix": "cge",
     "body": "console.groupEnd($1);$2",
     "description": "console.groupEnd()"
   }

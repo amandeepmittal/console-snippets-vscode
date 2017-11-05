@@ -9,6 +9,13 @@ Search for and select `console-snippets`.
 - JavaScript
 
 ## Snippets
+- `clog` console.log()
+- `cwarn` console.warn()
+- `cdir` console.dir()
+- `ci` console.info()
+- `cerr` console.error()
+- `cg` console.group()
+- `cge` console.groupEnd()
 
 ### Contribute
 Pull requests for more snippets are welcome.
