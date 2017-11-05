@@ -1,1 +1,37 @@
-{}
+{
+  "log": {
+    "prefix": "clog",
+    "body": "console.log($1);$2",
+    "description": "console.log()"
+  },
+  "error": {
+    "prefix": "cerror",
+    "body": "console.error($1);$2",
+    "description": "console.error()"
+  },
+  "info": {
+    "prefix": "cinfo",
+    "body": "console.info($1);$2",
+    "description": "console.info()"
+  },
+  "dir": {
+    "prefix": "cdir",
+    "body": "console.dir($1);$2",
+    "description": "console.dir()"
+  },
+  "warn": {
+    "prefix": "cwarn",
+    "body": "console.warn($1);$2",
+    "description": "console.warn()"
+  },
+  "group": {
+    "prefix": "cgroup",
+    "body": "console.group($1);$2",
+    "description": "console.group()"
+  },
+  "group-end": {
+    "prefix": "cgend",
+    "body": "console.groupEnd($1);$2",
+    "description": "console.groupEnd()"
+  }
+}
