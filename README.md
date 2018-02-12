@@ -9,7 +9,7 @@ Search for and select `console-snippets`.
 - JavaScript
 
 ## Snippets
-- `clog` console.log()
+- `cl` `clog` console.log()
 - `cwarn` console.warn()
 - `cdir` console.dir()
 - `ci` console.info()
