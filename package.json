@@ -2,7 +2,7 @@
     "name": "console-snippets",
     "displayName": "console-snippets",
     "description": "All JavaScript console snippets to save your time.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "amandeepmittal",
     "icon": "images/console.jpg",
     "engines": {
