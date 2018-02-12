@@ -16,6 +16,22 @@
             {
                 "language": "javascript",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "jsx",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/snippets.json"
             }
         ]
     },
