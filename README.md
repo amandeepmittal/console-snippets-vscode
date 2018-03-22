@@ -7,9 +7,10 @@ Search for and select `console-snippets`.
 
 ### Supported languages
 - JavaScript
+- TypeScript
 
 ## Snippets
-- `cl` `clog` console.log()
+- `cl` or `clog` console.log()
 - `cwarn` console.warn()
 - `cdir` console.dir()
 - `ci` console.info()
