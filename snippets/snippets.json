@@ -29,6 +29,11 @@
     "body": "console.warn($1);$2",
     "description": "console.warn()"
   },
+  "table":{
+    "prefix":"ct"
+     "body": "console.table($1);$2",
+    "description": "console.table()"
+  },
   "group": {
     "prefix": "cg",
     "body": "console.group($1);$2",
